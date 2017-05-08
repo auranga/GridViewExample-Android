@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="events_height">200dp</dimen>
+
+    <dimen name="circleDrawRad">100dp</dimen>
+    <dimen name="circleBtnimg">60dp</dimen>
+
+
+    <dimen name="circleBtnimgDetail">140dp</dimen>
+    <dimen name="imgDetail">100dp</dimen>
+
+    <dimen name="circleBtnText">9sp</dimen>
+    <dimen name="circleBtnVertical">10dp</dimen>
+    <dimen name="circleImg">100dp</dimen>
+</resources>

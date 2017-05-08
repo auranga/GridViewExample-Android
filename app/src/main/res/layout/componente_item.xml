@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    style="@style/containerButton"
+    android:orientation="vertical"
+    android:descendantFocusability="blocksDescendants">
+
+    <RelativeLayout
+        android:id="@+id/circleBack"
+        style="@style/circleImg"
+        android:transitionName="@string/tra_one">
+
+        <!-- android:background="@drawable/circle_enc_1"-->
+
+        <ImageView
+            android:id="@+id/Image_Componente"
+            android:layout_width="@dimen/circleBtnimg"
+            android:layout_height="@dimen/circleBtnimg"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:scaleType="fitCenter"
+            android:transitionName="@string/tra_two"
+            />
+        <!--android:layout_gravity="center" android:background="@drawable/encuesta_1" android:layout_width="@dimen/enc1Btn_w"
+            android:layout_height="@dimen/enc1Btn_h"-->
+
+    </RelativeLayout>
+
+
+    <TextView
+        android:id="@+id/TextView_Com"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:textAlignment="center"
+        android:textSize="@dimen/circleBtnText"
+        android:textStyle="bold" />
+
+</LinearLayout>

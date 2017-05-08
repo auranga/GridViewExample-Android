@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Gridview Example</string>
+
+    <!-- <item>Seguridad estructural y condiciones Generales de funcionamiento</item> -->
+    <string-array name="componentes_array">
+        <item>Seguridad</item>
+        <item>Servicios</item>
+        <item>Bebederos</item>
+        <item>Mobiliario</item>
+        <item>Accesibilidad</item>
+        <item>Servicios</item>
+        <item>Conectividad</item>
+        <item>Espacios</item>
+    </string-array>
+
+
+    <string name="tra_one">transition_one</string>
+
+    <string name="tra_two">transition_two</string>
+
+    <string name="text_large">Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n\nLorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\n\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+
+</resources>
