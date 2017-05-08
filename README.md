@@ -6,4 +6,4 @@ Grid View es un ViewGroup que muestra elementos en una cuadrícula bidimensional
 [GridView](https://developer.android.com/guide/topics/ui/layout/gridview.html) 
 
 ## Grid View Android
-<img style="margin: 5px;" src="https://cloud.githubusercontent.com/assets/879446/25818779/6ead5044-33f1-11e7-87e4-e1447d9a3456.gif" width="300"/>
+<img style="margin: 5px;" src="https://cloud.githubusercontent.com/assets/879446/25820577/5da93352-33f7-11e7-9668-5c10d37bacc8.gif" width="300"/>
